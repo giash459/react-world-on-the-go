@@ -1,0 +1,14 @@
+.country{
+    border: 2px solid purple;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: pink;
+}
+
+.country-visited{
+    background-color: aquamarine;
+}
+.not-country-visited{
+    background-color: pink;
+}
